@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "852189086056",
+    "project_id": "calculatorapp-b94c0",
+    "storage_bucket": "calculatorapp-b94c0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:852189086056:android:cb0a00484a72651efad6dd",
+        "android_client_info": {
+          "package_name": "com.sangyan.calculatorapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA7kGYcv6vh-92fasyqcB529wrxmt4kDpk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
